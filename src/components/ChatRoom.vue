@@ -12,7 +12,7 @@
         <img
           width="32"
           height="32"
-          src="https://www.static.talkxj.com/config/logo.png"
+          src="http://www.static.chengzige.top/config/logo.jpg"
         />
         <div style="margin-left:12px">
           <div>聊天室</div>
@@ -146,7 +146,7 @@
       <img
         width="100%"
         height="100%"
-        src="https://www.static.talkxj.com/config/logo.png"
+        src="http://www.static.chengzige.top/config/logo.jpg"
       />
     </div>
   </div>
